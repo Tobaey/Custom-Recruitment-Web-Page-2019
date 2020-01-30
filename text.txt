@@ -1,0 +1,38 @@
+css color values
+	4 diff color values
+	1. Color Name
+	2. rgb color 
+	3. Hexadecomal 
+
+hsla
+
+p
+h= hue 0-360
+	r=0-120
+	g=120-240
+	b=240-360
+saturation=%
+lightening= %
+a= opacity
+flex= align items to be flexible
+
+padding is an internal space 
+margin is space btween 2 contents
+
+border-style= dotted, solid, dashes, dotted-dash, border-right, border-left, border-top,
+border: 1px solid blue; padding=10px
+border-color
+Margin: is clockwise direction (t, r, b, l).
+
+fonts- fonts.google.com
+component library - getbootstrap.com
+mdbootstrap = Material Design Bootstrap
+
+mdbootstrap= z-depth-2,3,4,5
+
+bootstrap documentation
+
+Form Wraper:
+Form Group: wrapper
+Form Control; styling of the form
+img-fluid gives responsiveness to your image accross other devices
